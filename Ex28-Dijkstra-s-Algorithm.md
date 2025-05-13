@@ -86,6 +86,7 @@ int main() {
 ```
 
 ## Output:
+![Uploading image.png…]()
 
 
 
