@@ -86,8 +86,7 @@ int main() {
 ```
 
 ## Output:
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/64fb4c05-8edc-4811-9b8f-589d98cdac8b)
 
 
 ## Result:
